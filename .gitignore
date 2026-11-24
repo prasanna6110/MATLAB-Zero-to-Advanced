@@ -1,0 +1,19 @@
+# MATLAB / Octave
+*.asv
+*.m~
+*.mex*
+slprj/
+*.slxc
+*.autosave
+octave-workspace
+codegen/
+# Outputs created while practising
+*.mat
+*.png
+*.fig
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
